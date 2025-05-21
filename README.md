@@ -96,15 +96,15 @@ Evaluation is based on:
 ## Resources
 
 - **Notebooks**:
-  - [Pascal VOC Training Notebook](./pascal_training.ipynb)
-  - [AeroScapes Training Notebook](./aerial_training.ipynb)
+  - [Pascal VOC Training Notebook](./Notebook_Pascal_VOC_2012.ipynb)
+  - [AeroScapes Training Notebook](./Notebook_Arial_Dataset.ipynb)
 
 - **Project Presentation**:
   - [Watch this video on YouTube](https://youtu.be/h-K6XyY-x-w?si=bvMmiE8Rc742R1_K)
 
 - **Project Reports**:
-  - [Pascal VOC Project Report](./pascal_voc_report.pdf)
-  - [AeroScapes Project Report](./aeroscapes_report.pdf)
+  - [Pascal VOC Project Report](./Semantic Segmentation Using DINOv2 ViT and U-Net on Pascal VOC 2012.pdf)
+  - [AeroScapes Project Report](./Semantic Segmentation Using DINO ViT and U-Net on Aerial Dataset.pdf)
 ---
 
 
