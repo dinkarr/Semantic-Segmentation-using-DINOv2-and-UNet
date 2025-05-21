@@ -104,7 +104,7 @@ Evaluation is based on:
 
 - **Project Reports**:
   - [Pascal VOC Project Report](./Semantic Segmentation Using DINOv2 ViT and U-Net on Pascal VOC 2012.pdf)
-  - [AeroScapes Project Report](./Semantic Segmentation Using DINO ViT and U-Net on Aerial Dataset.pdf)
+  - [AeroScapes Project Report](./Report_Aerial_Dataset.pdf)
     
 ---
 
