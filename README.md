@@ -103,7 +103,7 @@ Evaluation is based on:
   - [Watch this video on YouTube](https://youtu.be/h-K6XyY-x-w?si=bvMmiE8Rc742R1_K)
 
 - **Project Reports**:
-  - [Pascal VOC Project Report](./Semantic Segmentation Using DINOv2 ViT and U-Net on Pascal VOC 2012.pdf)
+  - [Pascal VOC Project Report](./Report_Pascal_Dataset.pdf)
   - [AeroScapes Project Report](./Report_Aerial_Dataset.pdf)
     
 ---
